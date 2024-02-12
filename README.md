@@ -9,9 +9,13 @@ Module 9 Challenge
 - salaries.csv
 - titles.csv
 
-## Entity Relationship Diagram 
+
+## Data Modelling - Entity Relationship Diagram 
+https://app.quickdatabasediagrams.com/
 https://github.com/MaliniSintre/sql_challenge/blob/main/Entity%20Relationship%20Diagram%20.png
 
-## table schemata.sql
+## Data Engineering
+- table schemata.sql
 
-## queries.SQL
+## Data Analysis 
+- queries.SQL
