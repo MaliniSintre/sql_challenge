@@ -26,5 +26,5 @@ https://github.com/MaliniSintre/sql_challenge/blob/main/ERD.png
 - Refer to sql challenge_Data Analysis.pdf for output screenshots for the questions answered
 
 ## References
-https://www.w3schools.com/sql/sql_datatypes.asp
-https://app.quickdatabasediagrams.com
+- https://www.w3schools.com/sql/sql_datatypes.asp
+- https://app.quickdatabasediagrams.com
